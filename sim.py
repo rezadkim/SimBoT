@@ -1,4 +1,6 @@
 #Simsimi
+#Rekode authornya cantumin lah kontol
+#Kau kira tools bapak kau yang buat?
 
 import requests,os,json
 
